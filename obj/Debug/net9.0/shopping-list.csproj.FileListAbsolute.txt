@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\bin\Debug\net9.0\shopping-list.exe
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\bin\Debug\net9.0\shopping-list.deps.json
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\bin\Debug\net9.0\shopping-list.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\bin\Debug\net9.0\shopping-list.dll
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\bin\Debug\net9.0\shopping-list.pdb
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.dll
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\refint\shopping-list.dll
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.pdb
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\shopping-list.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documents\Code\c#\shopping-list\obj\Debug\net9.0\ref\shopping-list.dll
